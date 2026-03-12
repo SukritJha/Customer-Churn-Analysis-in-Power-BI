@@ -25,15 +25,11 @@ Benefits:
 
 Tools & Technologies Used
 
-Power BI – Data visualization and dashboard development
-
-Power Query – Data cleaning and transformation
-
-DAX (Data Analysis Expressions) – Calculated measures and KPIs
-
-GitHub – Project documentation and version control
-
-Project Structure
+1. Power BI – Data visualization and dashboard development
+2. Power Query – Data cleaning and transformation
+3. DAX (Data Analysis Expressions) – Calculated measures and KPIs
+4. GitHub – Project documentation and version control
+5. Project Structure
 
 Customer-Churn-Analysis
 │
