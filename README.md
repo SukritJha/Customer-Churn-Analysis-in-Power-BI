@@ -3,7 +3,9 @@ This project presents an interactive Customer Churn Analysis Dashboard built usi
 The goal of the project is to analyze customer behavior and identify the key factors influencing customer churn in a telecom company.
 
 Customer churn is a major problem for subscription-based businesses. By analyzing customer demographics, service usage, contract types, and payment methods, this dashboard helps identify patterns that lead to customer attrition and provides actionable insights to improve retention strategies.
+
 Key Features:
+
 📌 Predictive Churn Modeling: Identify at-risk customers before they churn, enabling proactive interventions and retention strategies.
 
 📌 Customer Segmentation: Group customers based on shared characteristics and churn risk, allowing for targeted marketing and engagement efforts.
@@ -35,23 +37,17 @@ Project Structure
 
 Customer-Churn-Analysis
 │
+
 ├── dataset
+
 │   └── Telco_Customer_Churn.csv
+
 │
+
 ├── dashboard
+
 │   └── Customer_Churn_Dashboard.pbix
+
 │
+
 └── README.md
-
-Future Improvements
-
-Possible extensions for this project include:
-
-Building a machine learning model to predict churn
-
-Performing customer lifetime value analysis
-
-Integrating time-series churn trend analysis
-
-Developing a customer retention recommendation model
-
