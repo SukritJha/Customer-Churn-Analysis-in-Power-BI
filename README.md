@@ -11,8 +11,10 @@ Built with:
 Key Insights:
 <img width="1309" height="730" alt="image" src="https://github.com/user-attachments/assets/b32b0212-6f8a-46d0-8f41-0f654ec250ad" />
 Benefits:
-Reduce customer loss: Identify and help customers at risk to keep them longer.
-Improve customer satisfaction: Understand customer needs better for better service.
-Make data-driven decisions: Use insights to make better choices for keeping customers happy.
+
+1. Reduce customer loss: Identify and help customers at risk to keep them longer.
+2. Improve customer satisfaction: Understand customer needs better for better service.
+3. Make data-driven decisions: Use insights to make better choices for keeping customers happy.
+
 <img width="1326" height="728" alt="image" src="https://github.com/user-attachments/assets/bf79c154-1c3f-4d8d-9cd7-e38d957c4b31" />
 
